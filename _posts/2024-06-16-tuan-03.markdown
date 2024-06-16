@@ -13,7 +13,7 @@ categories: event-history
 | ID  | Tên in game   | Tên Zalo        |
 |-----|---------------|-----------------|
 | 1   | ĂnMày          | Tuấn        |
-| 2   | NSe7en   | Bảy |
+| 2   | Se7en   | Bảy |
 | 3   | APPT         | Thế Bình |
 
 #### Top 3 Cống hiến (16/06)
