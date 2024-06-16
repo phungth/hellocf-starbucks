@@ -22,7 +22,7 @@ title: Hello Cafe - Guild Starbucks
 zalo: https://zalo.me/g/ciycpf783
 description: >- # this means to ignore newlines until "baseurl:"
   Tổng hợp các thông tin về Guild Starbucks, danh sách thành viên, các sự kiện
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://phungth.github.io/hellocf-starbucks/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
