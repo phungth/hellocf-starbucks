@@ -5,9 +5,9 @@
 layout: home
 ---
 
-## 📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG!
+## 📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG
 
-- [📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG!](#-sự-kiện-tháng-6-cùng-nhau-tỏa-sáng)
+- [📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG](#-sự-kiện-tháng-6-cùng-nhau-tỏa-sáng)
   - [ĐỐI TƯỢNG THAM GIA](#đối-tượng-tham-gia)
   - [CÁCH THỨC THAM GIA](#cách-thức-tham-gia)
   - [THỂ LỆ](#thể-lệ)
