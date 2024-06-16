@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Lịch sử nhận giải - Tuần 2 (09/06)"
+date:   2024-06-09 20:05:55 +0700
+categories: event-history
+---
+## LỊCH SỬ NHẬN GIẢI
+
+### Tuần 2 (09/06)
+
+#### Top 3 Quảng cáo (09/06)
+
+| ID  | Tên in game   | Tên Zalo        |
+|-----|---------------|-----------------|
+| 1   | APPT          | Thế Bình        |
+| 2   | Noah Prince   | Đinh Hồng Nhung |
+| 3   | NhânT         | Nguyễn Hữu Nhân |
+
+#### Top 3 Cống hiến (09/06)
+
+| ID  | Tên in game   | Tên Zalo             |
+|-----|---------------|----------------------|
+| 1   | April Café    | Yến Ngân             |
+| 2   | Ba bé Min     | Trương Nhật Khanh    |
+| 3   | Mẹ Bé Min     | Khánh Linh           |
+
+#### 4 Giải may mắn (09/06)
+
+| ID  | Tên in game   | Tên Zalo         |
+|-----|---------------|------------------|
+| 1   | Huy Linh      | Trần Văn Huy     |
+| 2   | Coffee Bé Bơ  | Đã rời G         |
+| 3   | Linh Phương   | Linh Phương      |
+| 4   | ThenUyn       | Thanh            |
