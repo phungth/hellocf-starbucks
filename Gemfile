@@ -36,4 +36,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # GitHub Pages
 gem "github-pages", "~> 231", group: :jekyll_plugins
 
+gem 'jekyll-favicon', '~> 1.1.0', group: :jekyll_plugins
+
 
