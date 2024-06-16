@@ -5,18 +5,15 @@
 layout: home
 ---
 
-# 📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG!
+## 📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG!
 
 - [📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG!](#-sự-kiện-tháng-6-cùng-nhau-tỏa-sáng)
-  - [THÔNG TIN SỰ KIỆN](#thông-tin-sự-kiện)
-    - [ĐỐI TƯỢNG THAM GIA](#đối-tượng-tham-gia)
-    - [CÁCH THỨC THAM GIA](#cách-thức-tham-gia)
-    - [THỂ LỆ](#thể-lệ)
-    - [GIẢI THƯỞNG](#giải-thưởng)
-    - [THỜI GIAN](#thời-gian)
-    - [LƯU Ý](#lưu-ý)
-
-## THÔNG TIN SỰ KIỆN
+  - [ĐỐI TƯỢNG THAM GIA](#đối-tượng-tham-gia)
+  - [CÁCH THỨC THAM GIA](#cách-thức-tham-gia)
+  - [THỂ LỆ](#thể-lệ)
+  - [GIẢI THƯỞNG](#giải-thưởng)
+  - [THỜI GIAN](#thời-gian)
+  - [LƯU Ý](#lưu-ý)
 
 Starbucks Guild trân trọng giới thiệu sự kiện đặc biệt dành riêng cho các thành viên năng động của chúng ta!
 
