@@ -34,6 +34,6 @@ categories: members
 | 24  | Mí Cà Phê     | Ying Ying       |               |
 | 25  | Angel Asaca   | Angel Asaca     |               |
 | 26  | Lupin         | Nguyen Cong Thang |             |
-| 27  | NCT Kún       | Quốc Hưng       |               |
+| 27  | Kún       | Quốc Hưng       |               |
 | 28  | Gween         | Quế Anh         |               |
 | 29  | Nariri        | Nguyễn Bảo Thanh Hằng         |               |

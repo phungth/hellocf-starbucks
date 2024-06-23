@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Lịch sử nhận giải - Tuần 4 (23/06)"
+date:   2024-06-23 20:23:55 +0700
+categories: event-history
+---
+## LỊCH SỬ NHẬN GIẢI
+
+### Tuần 3 (23/06)
+
+#### Top 3 Quảng cáo (23/06)
+
+| ID  | Tên in game   | Tên Zalo        |
+|-----|---------------|-----------------|
+| 1   | Kún          | Quốc Hưng        |
+| 2   | ĂnMày   | Tuấn |
+| 3   | Lupin         | Nguyen Cong Thang |
+
+#### Top 3 Cống hiến (23/06)
+
+| ID  | Tên in game   | Tên Zalo             |
+|-----|---------------|----------------------|
+| 1   |  Huy Linh   | Trần Văn Huy             |
+| 2   | JENNY     | Nguyễn Thị Minh Trang    |
+| 3   | Angel Asaca     | Angel Asaca           |
+
+#### 4 Giải may mắn (23/06)
+
+| ID  | Tên in game   | Tên Zalo         |
+|-----|---------------|------------------|
+| 1   | LaceyN      | Đinh Hoàng Huy     |
+| 2   | NhânT  | Nguyễn Hữu Nhân         |
+| 3   | Linh Phương   | Linh Phương      |
+| 4   | Đen ko vâu       | Bích Tuyền            |
