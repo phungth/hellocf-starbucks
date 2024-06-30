@@ -29,3 +29,4 @@
 27. NCT Kún | Tên Zalo: Quốc Hưng
 28. Gween | Tên Zalo: Quế Anh
 29. Nariri | Tên Zalo: Nguyễn Bảo Thanh Hằng
+30. Nấm Yêuuuu | Tên Zalo: Linh Chi
