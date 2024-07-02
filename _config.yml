@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hello Cafe - Guild Starbucks
+title: HelloCafe | Guild Starbucks
 zalo: https://zalo.me/g/ciycpf783
 description: >- # this means to ignore newlines until "baseurl:"
   Tổng hợp các thông tin về Guild Starbucks, danh sách thành viên, các sự kiện

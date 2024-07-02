@@ -1,13 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "Sự kiện tháng 7 - Starbucks Summer Fiesta"
+date:   2024-07-02 19:05:55 +0700
+categories: event
 ---
 
-## 📣 SỰ KIỆN THÁNG 7: STARBUCKS SUMMER FIESTA 🍹
+## 📣 STARBUCKS SUMMER FIESTA 🍹
 
-- [📣 SỰ KIỆN THÁNG 7: STARBUCKS SUMMER FIESTA 🍹](#-sự-kiện-tháng-7-starbucks-summer-fiesta-)
+- [📣 STARBUCKS SUMMER FIESTA 🍹](#-starbucks-summer-fiesta-)
   - [ĐỐI TƯỢNG THAM GIA](#đối-tượng-tham-gia)
   - [CÁCH THỨC THAM GIA](#cách-thức-tham-gia)
   - [THỂ LỆ](#thể-lệ)
