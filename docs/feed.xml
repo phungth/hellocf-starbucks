@@ -1,4 +1,203 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://phungth.github.io/hellocf-starbucks/feed.xml" rel="self" type="application/atom+xml" /><link href="https://phungth.github.io/hellocf-starbucks/" rel="alternate" type="text/html" /><updated>2024-07-02T19:28:57+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/feed.xml</id><title type="html">HelloCafe | Guild Starbucks</title><subtitle>Tổng hợp các thông tin về Guild Starbucks, danh sách thành viên, các sự kiện</subtitle><entry><title type="html">Sự kiện tháng 7 - Starbucks Summer Fiesta</title><link href="https://phungth.github.io/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html" rel="alternate" type="text/html" title="Sự kiện tháng 7 - Starbucks Summer Fiesta" /><published>2024-07-02T19:05:55+07:00</published><updated>2024-07-02T19:05:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event/2024/07/02/su-kien-thang-7</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html"><![CDATA[<h2 id="-starbucks-summer-fiesta-">📣 STARBUCKS SUMMER FIESTA 🍹</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/hellocf-starbucks/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hellocf-starbucks/" rel="alternate" type="text/html" /><updated>2024-07-04T18:01:14+07:00</updated><id>http://localhost:4000/hellocf-starbucks/feed.xml</id><title type="html">HelloCafe | Guild Starbucks</title><subtitle>Tổng hợp các thông tin về Guild Starbucks, danh sách thành viên, các sự kiện</subtitle><entry><title type="html">Danh sách thành viên (Cập nhật ngày 04/07)</title><link href="http://localhost:4000/hellocf-starbucks/members/2024/07/04/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 04/07)" /><published>2024-07-04T17:58:20+07:00</published><updated>2024-07-04T17:58:20+07:00</updated><id>http://localhost:4000/hellocf-starbucks/members/2024/07/04/danh-sach-thanh-vien</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/members/2024/07/04/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Tên in game</th>
+      <th>Tên Zalo</th>
+      <th>Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Bếp Mẹ Ni</td>
+      <td>Hoàng Phụng</td>
+      <td>Guild Master</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bếp Nhà Ni</td>
+      <td>Thanh Thanh</td>
+      <td>Phó Guild</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Thiên Lạc</td>
+      <td>Gia Phát</td>
+      <td>Phó Guild</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Huy Linh</td>
+      <td>Trần Văn Huy</td>
+      <td>Phó Guild</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>ĂnMày</td>
+      <td>Tuấn</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>APPT</td>
+      <td>Thế Bình</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>April Café</td>
+      <td>Yến Ngân</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Ba bé Min</td>
+      <td>Trương Nhật Khanh</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>coconutVNese</td>
+      <td>Trịnh Truyết Nhi</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Chu Quang Thuy</td>
+      <td>Quang Thụy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>LinhNee</td>
+      <td>Đặng Linh</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Đen ko vâu</td>
+      <td>Bích Tuyền</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>LaceyN</td>
+      <td>Đinh Hoàng Huy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Ivy Sweet</td>
+      <td>Vy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>JENNY</td>
+      <td>Nguyễn Thị Minh Trang</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Linh Phương</td>
+      <td>Linh Phương</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Mẹ Bé Min</td>
+      <td>Khánh Linh</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Noah Prince</td>
+      <td>Đinh Hồng Nhung</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>NhânT</td>
+      <td>Nguyễn Hữu Nhân</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>ThenUyn</td>
+      <td>Thanh</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Tylinh</td>
+      <td>YENLINH</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Se7en</td>
+      <td>Bảy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Mí Cà Phê</td>
+      <td>Ying Ying</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Angel Asaca</td>
+      <td>Angel Asaca</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Lupin</td>
+      <td>Nguyen Cong Thang</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>NCT Kún</td>
+      <td>Quốc Hưng</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Gween</td>
+      <td>Quế Anh</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Nariri</td>
+      <td>Nguyễn Bảo Thanh Hằng</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Nấm Yêuuuu</td>
+      <td>Linh Chi</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>MèoCoffee</td>
+      <td>Nguyenhuongtra</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>DINO</td>
+      <td>Mỹ Uyên</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Sự kiện tháng 7 - Starbucks Summer Fiesta</title><link href="http://localhost:4000/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html" rel="alternate" type="text/html" title="Sự kiện tháng 7 - Starbucks Summer Fiesta" /><published>2024-07-02T19:05:55+07:00</published><updated>2024-07-02T19:05:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event/2024/07/02/su-kien-thang-7</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html"><![CDATA[<h2 id="-starbucks-summer-fiesta-">📣 STARBUCKS SUMMER FIESTA 🍹</h2>
 
 <ul>
   <li><a href="#-starbucks-summer-fiesta-">📣 STARBUCKS SUMMER FIESTA 🍹</a>
@@ -76,7 +275,7 @@
   <li>Bếp Mẹ Ni (Hoàng Phụng)</li>
   <li>Thiên Lạc (Gia Phát)</li>
   <li>Kún (Quốc Hưng)</li>
-</ul>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[📣 STARBUCKS SUMMER FIESTA 🍹]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 5 (30/06)</title><link href="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/30/tuan-05.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 5 (30/06)" /><published>2024-06-30T20:33:55+07:00</published><updated>2024-06-30T20:33:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event-history/2024/06/30/tuan-05</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/30/tuan-05.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
+</ul>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[📣 STARBUCKS SUMMER FIESTA 🍹]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 5 (30/06)</title><link href="http://localhost:4000/hellocf-starbucks/event-history/2024/06/30/tuan-05.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 5 (30/06)" /><published>2024-06-30T20:33:55+07:00</published><updated>2024-06-30T20:33:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event-history/2024/06/30/tuan-05</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event-history/2024/06/30/tuan-05.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
 
 <h3 id="tuần-5-3006">Tuần 5 (30/06)</h3>
 
@@ -170,7 +369,7 @@
       <td>Linh Chi</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 30/06)</title><link href="https://phungth.github.io/hellocf-starbucks/members/2024/06/30/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 30/06)" /><published>2024-06-30T20:31:20+07:00</published><updated>2024-06-30T20:31:20+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/members/2024/06/30/danh-sach-thanh-vien</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/members/2024/06/30/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
+</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 30/06)</title><link href="http://localhost:4000/hellocf-starbucks/members/2024/06/30/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 30/06)" /><published>2024-06-30T20:31:20+07:00</published><updated>2024-06-30T20:31:20+07:00</updated><id>http://localhost:4000/hellocf-starbucks/members/2024/06/30/danh-sach-thanh-vien</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/members/2024/06/30/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
 
 <table>
   <thead>
@@ -363,7 +562,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 4 (23/06)</title><link href="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/23/tuan-04.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 4 (23/06)" /><published>2024-06-23T20:23:55+07:00</published><updated>2024-06-23T20:23:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event-history/2024/06/23/tuan-04</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/23/tuan-04.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
+</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 4 (23/06)</title><link href="http://localhost:4000/hellocf-starbucks/event-history/2024/06/23/tuan-04.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 4 (23/06)" /><published>2024-06-23T20:23:55+07:00</published><updated>2024-06-23T20:23:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event-history/2024/06/23/tuan-04</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event-history/2024/06/23/tuan-04.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
 
 <h3 id="tuần-4-2306">Tuần 4 (23/06)</h3>
 
@@ -457,7 +656,7 @@
       <td>Bích Tuyền</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 23/06)</title><link href="https://phungth.github.io/hellocf-starbucks/members/2024/06/23/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 23/06)" /><published>2024-06-23T19:31:20+07:00</published><updated>2024-06-23T19:31:20+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/members/2024/06/23/danh-sach-thanh-vien</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/members/2024/06/23/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
+</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 23/06)</title><link href="http://localhost:4000/hellocf-starbucks/members/2024/06/23/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 23/06)" /><published>2024-06-23T19:31:20+07:00</published><updated>2024-06-23T19:31:20+07:00</updated><id>http://localhost:4000/hellocf-starbucks/members/2024/06/23/danh-sach-thanh-vien</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/members/2024/06/23/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
 
 <table>
   <thead>
@@ -644,7 +843,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 3 (16/06)</title><link href="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/16/tuan-03.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 3 (16/06)" /><published>2024-06-16T20:23:55+07:00</published><updated>2024-06-16T20:23:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event-history/2024/06/16/tuan-03</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/16/tuan-03.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
+</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 3 (16/06)</title><link href="http://localhost:4000/hellocf-starbucks/event-history/2024/06/16/tuan-03.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 3 (16/06)" /><published>2024-06-16T20:23:55+07:00</published><updated>2024-06-16T20:23:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event-history/2024/06/16/tuan-03</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event-history/2024/06/16/tuan-03.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
 
 <h3 id="tuần-3-1606">Tuần 3 (16/06)</h3>
 
@@ -738,7 +937,7 @@
       <td>Đỗ Thị Khánh Huyền</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 16/06)</title><link href="https://phungth.github.io/hellocf-starbucks/members/2024/06/16/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 16/06)" /><published>2024-06-16T16:18:20+07:00</published><updated>2024-06-16T16:18:20+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/members/2024/06/16/danh-sach-thanh-vien</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/members/2024/06/16/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
+</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 16/06)</title><link href="http://localhost:4000/hellocf-starbucks/members/2024/06/16/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 16/06)" /><published>2024-06-16T16:18:20+07:00</published><updated>2024-06-16T16:18:20+07:00</updated><id>http://localhost:4000/hellocf-starbucks/members/2024/06/16/danh-sach-thanh-vien</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/members/2024/06/16/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
 
 <table>
   <thead>
@@ -925,7 +1124,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 2 (09/06)</title><link href="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/09/tuan-02.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 2 (09/06)" /><published>2024-06-09T20:05:55+07:00</published><updated>2024-06-09T20:05:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event-history/2024/06/09/tuan-02</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/09/tuan-02.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
+</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 2 (09/06)</title><link href="http://localhost:4000/hellocf-starbucks/event-history/2024/06/09/tuan-02.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 2 (09/06)" /><published>2024-06-09T20:05:55+07:00</published><updated>2024-06-09T20:05:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event-history/2024/06/09/tuan-02</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event-history/2024/06/09/tuan-02.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
 
 <h3 id="tuần-2-0906">Tuần 2 (09/06)</h3>
 
@@ -1019,7 +1218,7 @@
       <td>Thanh</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 1 (02/06)</title><link href="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/02/tuan-01.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 1 (02/06)" /><published>2024-06-02T20:05:55+07:00</published><updated>2024-06-02T20:05:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event-history/2024/06/02/tuan-01</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event-history/2024/06/02/tuan-01.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
+</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 1 (02/06)</title><link href="http://localhost:4000/hellocf-starbucks/event-history/2024/06/02/tuan-01.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 1 (02/06)" /><published>2024-06-02T20:05:55+07:00</published><updated>2024-06-02T20:05:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event-history/2024/06/02/tuan-01</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event-history/2024/06/02/tuan-01.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
 
 <h3 id="kết-quả-trao-giải-tuần-1-0206">Kết quả trao giải Tuần 1 (02/06)</h3>
 
@@ -1113,67 +1312,4 @@
       <td>Thanh</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG</title><link href="https://phungth.github.io/hellocf-starbucks/event/2024/06/01/su-kien-thang-6.html" rel="alternate" type="text/html" title="SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG" /><published>2024-06-01T19:05:55+07:00</published><updated>2024-06-01T19:05:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event/2024/06/01/su-kien-thang-6</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event/2024/06/01/su-kien-thang-6.html"><![CDATA[<h2 id="-sự-kiện-tháng-6-cùng-nhau-tỏa-sáng">📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG</h2>
-
-<ul>
-  <li><a href="#-sự-kiện-tháng-6-cùng-nhau-tỏa-sáng">📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG</a>
-    <ul>
-      <li><a href="#đối-tượng-tham-gia">ĐỐI TƯỢNG THAM GIA</a></li>
-      <li><a href="#cách-thức-tham-gia">CÁCH THỨC THAM GIA</a></li>
-      <li><a href="#thể-lệ">THỂ LỆ</a></li>
-      <li><a href="#giải-thưởng">GIẢI THƯỞNG</a></li>
-      <li><a href="#thời-gian">THỜI GIAN</a></li>
-      <li><a href="#lưu-ý">LƯU Ý</a></li>
-    </ul>
-  </li>
-</ul>
-
-<p>Starbucks Guild trân trọng giới thiệu sự kiện đặc biệt dành riêng cho các thành viên năng động của chúng ta!</p>
-
-<h3 id="đối-tượng-tham-gia">ĐỐI TƯỢNG THAM GIA</h3>
-
-<ul>
-  <li>Tất cả thành viên Starbucks Guild đã tham gia box chat và không offline quá 24 giờ.</li>
-  <li>Cống hiến Guild tối thiểu 10.000 điểm mỗi tuần (hoàn thành nhiệm vụ Guild sẽ dễ dàng đạt được).</li>
-</ul>
-
-<h3 id="cách-thức-tham-gia">CÁCH THỨC THAM GIA</h3>
-
-<ul>
-  <li>Top Cống Hiến: Đạt Top 3 thành viên cống hiến nhiều nhất cho Guild trong tuần.</li>
-  <li>Top Quảng Cáo: Đạt Top 3 thành viên quảng bá Guild tích cực nhất trong tuần.</li>
-</ul>
-
-<h3 id="thể-lệ">THỂ LỆ</h3>
-
-<ul>
-  <li>Mỗi thành viên chỉ được nhận thưởng MỘT LẦN mỗi tuần, dù đạt cả hai hạng mục.</li>
-  <li>Thành viên đã nhận thưởng <strong>2 tuần liên tiếp</strong> sẽ không được nhận thưởng tuần thứ 3, nhường cơ hội cho người khác.</li>
-  <li>Trường hợp bằng điểm, tổng điểm cống hiến và quảng bá sẽ được xét để xác định người chiến thắng.</li>
-</ul>
-
-<h3 id="giải-thưởng">GIẢI THƯỞNG</h3>
-
-<ul>
-  <li>Top Cống Hiến &amp; Quảng Bá: 1 Thẻ Tuần (có thể cộng dồn để đổi Thẻ Tháng).</li>
-  <li>Giải May Mắn: 2 Thẻ Tuần được trao ngẫu nhiên qua vòng quay may mắn tại <a href="https://wheelofnames.com/vi/">https://wheelofnames.com/vi/</a>. <strong>Thành viên đã nhận giải Top sẽ không được tham gia vòng quay này.</strong></li>
-  <li>Đặc biệt: 2 giải may mắn do bạn Thiên Lạc (Gia Phát) tài trợ.</li>
-</ul>
-
-<h3 id="thời-gian">THỜI GIAN</h3>
-
-<ul>
-  <li>Sự kiện: Từ hôm nay đến hết ngày 30/06/2024.</li>
-  <li><strong>Chốt điểm và quay số: 8h tối chủ nhật hàng tuần</strong></li>
-  <li>Trao thưởng: Vào thứ Hai hàng tuần.</li>
-</ul>
-
-<h3 id="lưu-ý">LƯU Ý</h3>
-
-<ul>
-  <li>Sự kiện sẽ tiếp tục diễn ra nếu Guild Master vẫn hoạt động.</li>
-  <li>Quyết định của Guild Master là quyết định cuối cùng.</li>
-</ul>
-
-<p>CHÚC CÁC BẠN MAY MẮN VÀ HÃY CÙNG NHAU LÀM CHO STARBUCKS GUILD NGÀY CÀNG PHÁT TRIỂN!
-Xin chân thành cảm ơn sự đóng góp của bạn Thiên Lạc (Gia Phát)!</p>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[📣 SỰ KIỆN THÁNG 6: CÙNG NHAU TỎA SÁNG]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry></feed>
