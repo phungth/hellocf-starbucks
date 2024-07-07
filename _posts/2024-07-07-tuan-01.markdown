@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Lịch sử nhận giải - Tuần 1 (07/07)"
+date:   2024-07-07 21:05:55 +0700
+categories: event-history
+---
+## LỊCH SỬ NHẬN GIẢI
+
+### Kết quả trao giải Tuần 1 (07/07)
+
+#### Top 3 Quảng cáo (07/07)
+
+| ID  | Tên in game   | Tên Zalo          |
+|-----|---------------|-------------------|
+| 1   | JENNY         | Nguyễn Thị Minh Trang     |
+| 2   | ĂnMày         | Tuấn              |
+| 3   | NhânT | Nguyễn Hữu Nhân |
+
+#### Top 3 Cống hiến (07/07)
+
+| ID  | Tên in game   | Tên Zalo                  |
+|-----|---------------|---------------------------|
+| 1   | Nấm Yêuuuu | Linh Chi              |
+| 2   | Angel Asaca | Angel Asaca                  |
+| 3   | Ivy Sweet | Vy     |
+
+#### 6 Giải may mắn (07/07)
+
+| ID  | Tên in game   | Tên Zalo        |
+|-----|---------------|-----------------|
+| 1   | Linh Phương   | Linh Phương     |
+| 2   | Tylinh | YENLINH |
+| 3   | Ba bé Min | Trương Nhật Khanh |
+| 4   | DINO | Mỹ Uyên |
+| 5   | BabyFish | Võ Ngọc Trân |
+| 6   | Nariri | Nguyễn Bảo Thanh Hằng |
