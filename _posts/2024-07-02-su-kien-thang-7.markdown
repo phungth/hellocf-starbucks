@@ -38,10 +38,6 @@ Mùa hè rực rỡ đã đến, Starbucks Guild xin gửi tới tất cả các
 ### GIẢI THƯỞNG
 
 * **Top Cống Hiến, Sáng Tạo, Thử Thách:** 1 Thẻ Tuần
-* **Giải May Mắn:** 4 Thẻ Tuần được trao ngẫu nhiên:
-  * Qua vòng quay may mắn tại [Wheel of names](https://wheelofnames.com/vi/).
-  * Hoặc qua đua vịt tại [Duck Race](https://www.online-stopwatch.com/duck-race/).
-  * Hoặc đoán 2 số cuối của con số may mắn.
 * **Đặc biệt:** Giải thưởng "Starbucks Summer Star" dành cho thành viên tích cực nhất trong cả tháng 7, phần thưởng là 1 Thẻ Tháng
 
 ### THỜI GIAN
