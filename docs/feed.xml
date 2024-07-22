@@ -1,4 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://phungth.github.io/hellocf-starbucks/feed.xml" rel="self" type="application/atom+xml" /><link href="https://phungth.github.io/hellocf-starbucks/" rel="alternate" type="text/html" /><updated>2024-07-12T23:14:24+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/feed.xml</id><title type="html">HelloCafe | Guild Starbucks</title><subtitle>Tổng hợp các thông tin về Guild Starbucks, danh sách thành viên, các sự kiện</subtitle><entry><title type="html">✨ QUIZZ GAME: Đấu Trường Tri Thức Săn Thẻ Tuần Cực Chất! ✨</title><link href="https://phungth.github.io/hellocf-starbucks/event/2024/07/12/starbucks-quizzz.html" rel="alternate" type="text/html" title="✨ QUIZZ GAME: Đấu Trường Tri Thức Săn Thẻ Tuần Cực Chất! ✨" /><published>2024-07-12T23:05:55+07:00</published><updated>2024-07-12T23:05:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event/2024/07/12/starbucks-quizzz</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event/2024/07/12/starbucks-quizzz.html"><![CDATA[<ul>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/hellocf-starbucks/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hellocf-starbucks/" rel="alternate" type="text/html" /><updated>2024-07-22T13:14:02+07:00</updated><id>http://localhost:4000/hellocf-starbucks/feed.xml</id><title type="html">HelloCafe | Guild Starbucks</title><subtitle>Tổng hợp các thông tin về Guild Starbucks, danh sách thành viên, các sự kiện</subtitle><entry><title type="html">Bảng vinh danh - Tuần 3 (21/07)</title><link href="http://localhost:4000/hellocf-starbucks/event-history/2024/07/21/tuan-03.html" rel="alternate" type="text/html" title="Bảng vinh danh - Tuần 3 (21/07)" /><published>2024-07-21T21:05:55+07:00</published><updated>2024-07-21T21:05:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event-history/2024/07/21/tuan-03</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event-history/2024/07/21/tuan-03.html"><![CDATA[<h3 id="top-3-quizz-game-1807">Top 3 Quizz Game (18/07)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Tên in game</th>
+      <th>Tên Zalo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>NhânT</td>
+      <td>Nguyễn Hữu Nhân</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>MèoPéo</td>
+      <td>???</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Neii Ching</td>
+      <td>Neii</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="top-3-cống-hiến-2107">Top 3 Cống hiến (21/07)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Tên in game</th>
+      <th>Tên Zalo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Se7en</td>
+      <td>Bảy</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>JENNY</td>
+      <td>Nguyễn Thị Minh Trang</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Nấm Yêuuuu</td>
+      <td>Linh Chi</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="top-3-quảng-cáo-2107">Top 3 Quảng cáo (21/07)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Tên in game</th>
+      <th>Tên Zalo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>NhânT</td>
+      <td>Nguyễn Hữu Nhân</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>ĂnMày</td>
+      <td>Tuấn</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Chu Quang Thuy</td>
+      <td>Quang Thụy</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="top-3-năng-động-nhất-tuần-2107">Top 3 Năng động nhất tuần (21/07)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Tên in game</th>
+      <th>Tên Zalo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Se7en</td>
+      <td>Bảy</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[Top 3 Quizz Game (18/07)]]></summary></entry><entry><title type="html">✨ QUIZZ GAME: Đấu Trường Tri Thức Săn Thẻ Tuần Cực Chất! ✨</title><link href="http://localhost:4000/hellocf-starbucks/event/2024/07/12/starbucks-quizzz.html" rel="alternate" type="text/html" title="✨ QUIZZ GAME: Đấu Trường Tri Thức Săn Thẻ Tuần Cực Chất! ✨" /><published>2024-07-12T23:05:55+07:00</published><updated>2024-07-12T23:05:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event/2024/07/12/starbucks-quizzz</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event/2024/07/12/starbucks-quizzz.html"><![CDATA[<ul>
   <li><a href="#thể-lệ-tham-dự">THỂ LỆ THAM DỰ</a></li>
   <li><a href="#cơ-cấu-giải-thưởng">CƠ CẤU GIẢI THƯỞNG</a></li>
   <li><a href="#luật-chơi">LUẬT CHƠI</a></li>
@@ -54,7 +158,7 @@
   <li>Bếp Mẹ Ni (Hoàng Phụng)</li>
   <li>Thiên Lạc (Gia Phát)</li>
   <li>Kún (Quốc Hưng)</li>
-</ul>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[THỂ LỆ THAM DỰ CƠ CẤU GIẢI THƯỞNG LUẬT CHƠI LƯU Ý NHÀ TÀI TRỢ]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 1 (07/07)</title><link href="https://phungth.github.io/hellocf-starbucks/event-history/2024/07/07/tuan-01.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 1 (07/07)" /><published>2024-07-07T21:05:55+07:00</published><updated>2024-07-07T21:05:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event-history/2024/07/07/tuan-01</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event-history/2024/07/07/tuan-01.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
+</ul>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[THỂ LỆ THAM DỰ CƠ CẤU GIẢI THƯỞNG LUẬT CHƠI LƯU Ý NHÀ TÀI TRỢ]]></summary></entry><entry><title type="html">Lịch sử nhận giải - Tuần 1 (07/07)</title><link href="http://localhost:4000/hellocf-starbucks/event-history/2024/07/07/tuan-01.html" rel="alternate" type="text/html" title="Lịch sử nhận giải - Tuần 1 (07/07)" /><published>2024-07-07T21:05:55+07:00</published><updated>2024-07-07T21:05:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event-history/2024/07/07/tuan-01</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event-history/2024/07/07/tuan-01.html"><![CDATA[<h2 id="lịch-sử-nhận-giải">LỊCH SỬ NHẬN GIẢI</h2>
 
 <h3 id="kết-quả-trao-giải-tuần-1-0707">Kết quả trao giải Tuần 1 (07/07)</h3>
 
@@ -158,7 +262,7 @@
       <td>Nguyễn Bảo Thanh Hằng</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 07/07)</title><link href="https://phungth.github.io/hellocf-starbucks/members/2024/07/07/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 07/07)" /><published>2024-07-07T21:01:20+07:00</published><updated>2024-07-07T21:01:20+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/members/2024/07/07/danh-sach-thanh-vien</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/members/2024/07/07/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
+</table>]]></content><author><name></name></author><category term="event-history" /><summary type="html"><![CDATA[LỊCH SỬ NHẬN GIẢI]]></summary></entry><entry><title type="html">Danh sách thành viên (Cập nhật ngày 07/07)</title><link href="http://localhost:4000/hellocf-starbucks/members/2024/07/07/danh-sach-thanh-vien.html" rel="alternate" type="text/html" title="Danh sách thành viên (Cập nhật ngày 07/07)" /><published>2024-07-07T21:01:20+07:00</published><updated>2024-07-07T21:01:20+07:00</updated><id>http://localhost:4000/hellocf-starbucks/members/2024/07/07/danh-sach-thanh-vien</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/members/2024/07/07/danh-sach-thanh-vien.html"><![CDATA[<h2 id="danh-sách-thành-viên">DANH SÁCH THÀNH VIÊN</h2>
 
 <table>
   <thead>
@@ -320,7 +424,7 @@
       <td>Võ Ngọc Trân</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Sự kiện tháng 7 - Starbucks Summer Fiesta</title><link href="https://phungth.github.io/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html" rel="alternate" type="text/html" title="Sự kiện tháng 7 - Starbucks Summer Fiesta" /><published>2024-07-02T19:05:55+07:00</published><updated>2024-07-02T19:05:55+07:00</updated><id>https://phungth.github.io/hellocf-starbucks/event/2024/07/02/su-kien-thang-7</id><content type="html" xml:base="https://phungth.github.io/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html"><![CDATA[<h2 id="-starbucks-summer-fiesta-">📣 STARBUCKS SUMMER FIESTA 🍹</h2>
+</table>]]></content><author><name></name></author><category term="members" /><summary type="html"><![CDATA[DANH SÁCH THÀNH VIÊN]]></summary></entry><entry><title type="html">Sự kiện tháng 7 - Starbucks Summer Fiesta</title><link href="http://localhost:4000/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html" rel="alternate" type="text/html" title="Sự kiện tháng 7 - Starbucks Summer Fiesta" /><published>2024-07-02T19:05:55+07:00</published><updated>2024-07-02T19:05:55+07:00</updated><id>http://localhost:4000/hellocf-starbucks/event/2024/07/02/su-kien-thang-7</id><content type="html" xml:base="http://localhost:4000/hellocf-starbucks/event/2024/07/02/su-kien-thang-7.html"><![CDATA[<h2 id="-starbucks-summer-fiesta-">📣 STARBUCKS SUMMER FIESTA 🍹</h2>
 
 <ul>
   <li><a href="#-starbucks-summer-fiesta-">📣 STARBUCKS SUMMER FIESTA 🍹</a>
@@ -357,7 +461,6 @@
 
 <ul>
   <li>Mỗi thành viên chỉ được nhận thưởng MỘT LẦN mỗi tuần, dù đạt nhiều hạng mục.</li>
-  <li>Thành viên đã nhận thưởng 2 tuần liên tiếp sẽ không được nhận thưởng tuần thứ 3.</li>
   <li>Trường hợp bằng điểm, ban quản trị sẽ đánh giá chất lượng bài đăng để chọn người chiến thắng.</li>
 </ul>
 

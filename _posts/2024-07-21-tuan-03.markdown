@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Bảng vinh danh - Tuần 3 (21/07)"
+date:   2024-07-21 21:05:55 +0700
+categories: event-history
+---
+
+### Top 3 Quizz Game (18/07)
+
+| ID  | Tên in game   | Tên Zalo        |
+|-----|---------------|-----------------|
+| 1   | NhânT | Nguyễn Hữu Nhân   |
+| 2   | MèoPéo | ??? |
+| 3   | Neii Ching | Neii |
+
+### Top 3 Cống hiến (21/07)
+
+| ID  | Tên in game   | Tên Zalo          |
+|-----|---------------|-------------------|
+| 1   | Se7en | Bảy     |
+| 2   | JENNY | Nguyễn Thị Minh Trang   |
+| 3   | Nấm Yêuuuu | Linh Chi |
+
+### Top 3 Quảng cáo (21/07)
+
+| ID  | Tên in game   | Tên Zalo                  |
+|-----|---------------|---------------------------|
+| 1   | NhânT | Nguyễn Hữu Nhân         |
+| 2   | ĂnMày | Tuấn     |
+| 3   | Chu Quang Thuy | Quang Thụy |
+
+### Top 3 Năng động nhất tuần (21/07)
+
+| ID  | Tên in game   | Tên Zalo          |
+|-----|---------------|-------------------|
+| 1   | Se7en | Bảy     |
