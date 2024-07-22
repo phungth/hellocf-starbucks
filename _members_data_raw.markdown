@@ -1,6 +1,7 @@
 Bếp Mẹ Ni | Tên Zalo: Hoàng Phụng
 Bếp Nhà Ni | Tên Zalo: Thanh Thanh
 Thiên Lạc | Tên Zalo: Gia Phát
+Kún | Tên Zalo: Quốc Hưng
 Huy Linh | Tên Zalo: Trần Văn Huy
 ĂnMày | Tên Zalo: Tuấn
 APPT | Tên Zalo: Thế Bình
@@ -19,7 +20,6 @@ Se7en | Tên Zalo: Bảy
 Mí Cà Phê | Tên Zalo: Ying Ying
 Angel Asaca | Tên Zalo: Angel Asaca
 Lupin | Tên Zalo: Nguyen Cong Thang
-Kún | Tên Zalo: Quốc Hưng
 Gween | Tên Zalo: Quế Anh
 Nariri | Tên Zalo: Nguyễn Bảo Thanh Hằng
 Nấm Yêuuuu | Tên Zalo: Linh Chi
