@@ -38,4 +38,4 @@ categories: members
 | 30   | Neii Ching    | Neii           |
 | 31   | Luke          | Cttl           |
 | 32   | Yee Nei       | Long Đinh      |
-| 33   | ?             | Nguyễn Nhật Hạ My |
+| 33   | Kristil       | Nguyễn Nhật Hạ My |
