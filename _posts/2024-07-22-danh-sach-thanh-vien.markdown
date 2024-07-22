@@ -36,6 +36,6 @@ categories: members
 | 28   | BabyFish      | Võ Ngọc Trân   |
 | 29   | Chyie         | Kim Chi        |
 | 30   | Neii Ching    | Neii           |
-| 31   | ?             | Cttl           |
-| 32   | ?             | Long Đinh      |
+| 31   | Luke          | Cttl           |
+| 32   | Yee Nei       | Long Đinh      |
 | 33   | ?             | Nguyễn Nhật Hạ My |
