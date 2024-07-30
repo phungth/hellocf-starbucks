@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Danh sách thành viên mới nhất"
-date:   2024-07-22 13:00:00 +0700
+date:   2024-07-31 05:00:00 +0700
 categories: members
 ---
 | ID   | Ingame        | Zalo                     |
@@ -31,11 +31,16 @@ categories: members
 | 23   | Gween         | Quế Anh        |
 | 24   | Nariri        | Nguyễn Bảo Thanh Hằng |
 | 25   | Nấm Yêuuuu    | Linh Chi       |
-| 26   | MèoCoffee     | Nguyenhuongtra |
+| 26   | Mèo Péo       | Nguyenhuongtra |
 | 27   | DINO          | Mỹ Uyên        |
 | 28   | BabyFish      | Võ Ngọc Trân   |
 | 29   | Chyie         | Kim Chi        |
-| 30   | Neii Ching    | Neii           |
-| 31   | Luke          | Cttl           |
-| 32   | Yee Nei       | Long Đinh      |
-| 33   | Kristil       | Nguyễn Nhật Hạ My |
+| 30   | Luke          | Cttl           |
+| 31   | Yee Nei       | Long Đinh      |
+| 32   | Toroo         | Minh Anh       |
+| 33   | SƠN           | Minh Sơn       |
+| 34   | Kristil       | Nguyễn Nhật Hạ My |
+| 35   | embexiuxiu    | Hiền Anh       |
+| 36   | Diiii         | Văn Thị Thảo My |
+| 37   | NUN Coffee    | Tien           |
+| 38   | ?    | Phuong Anh           |

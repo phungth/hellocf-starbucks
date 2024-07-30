@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Bảng vinh danh - Tuần 4 (28/07)"
+date:   2024-07-28 21:05:55 +0700
+categories: event-history
+---
+
+### Top 3 Quizz Game
+
+| ID  | Tên in game   | Tên Zalo        |
+|-----|---------------|-----------------|
+| 1   | NhânT | Nguyễn Hữu Nhân   |
+| 2   | Huy Linh | Trần Văn Huy |
+| 3   | Gween | Quế Anh |
+
+### Top 3 Cống hiến
+
+| ID  | Tên in game   | Tên Zalo          |
+|-----|---------------|-------------------|
+| 1   | Nấm Yêuuuu | Linh Chi     |
+| 2   | JENNY | Nguyễn Thị Minh Trang   |
+| 3   | Nấm Yêuuuu | Linh Chi |
+
+### Top 3 Quảng cáo
+
+| ID  | Tên in game   | Tên Zalo                  |
+|-----|---------------|---------------------------|
+| 1   | Đen ko vâu | Bích Tuyền         |
+| 2   | JENNY | Nguyễn Thị Minh Trang |
+| 3   | Angel Asaca | Angel Asaca |
